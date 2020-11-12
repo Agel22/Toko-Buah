@@ -7,7 +7,7 @@ Program Fresh Fruit ini bertujuan menambahkan item ke sebuah keranjang digital
 
 Berikut beberapa fungsi dari projek ini
 
-- Menambahkan barang sampai 4 buah
+- Menambahkan barang sampai 4 buah atau lebih
 - Penambahan fungsi delete pada program
 - Penambahan messagebox pada saat menambahkan dan menghapus
 - Ditambahkan messagebox image warning dan information
